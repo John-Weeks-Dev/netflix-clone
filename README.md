@@ -1,29 +1,30 @@
-# netflix-c
+# Netflix Clone (netflix-clone) / TV Version
 
-This template should help get you started developing with Vue 3 in Vite.
+### Learn how to build this!
 
-## Recommended IDE Setup
+If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/216832225-fe8ffbb9-4f26-47f5-a236-e77790000018.png)](https://www.youtube.com/watch?v=ZzuqwqP1wAQ)
 
-## Customize configuration
+Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
 
-## Project Setup
+## App Setup
 
-```sh
-npm install
 ```
+git clone https://github.com/John-Weeks-Dev/spotify-clone.git
 
-### Compile and Hot-Reload for Development
+npm i
 
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+You should be good to go!
 
-```sh
-npm run build
-```
+# Application Images
+
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/220828412-0f8da047-7130-45b7-93ef-7f3ed6dd03dc.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/220828423-16651149-2595-4288-b982-6449512ee15b.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/220828439-993d5c03-c330-44ef-bc66-8a43c1028b5f.png">
+
