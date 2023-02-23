@@ -13,7 +13,7 @@ Come and check out my YOUTUBE channel for lots more tutorials -> https://www.you
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/spotify-clone.git
+git clone https://github.com/John-Weeks-Dev/netflix-clone.git
 
 npm i
 
